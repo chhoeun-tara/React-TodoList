@@ -1,0 +1,12 @@
+.padding {
+  padding: 0.5rem 1rem;
+}
+button {
+  margin-left: 0.25rem;
+}
+.show {
+  display: inline-block;
+}
+.hide {
+  display: none;
+}
